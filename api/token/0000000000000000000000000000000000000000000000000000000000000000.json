@@ -1,0 +1,26 @@
+{
+    "description": "Autem eius qui sed rerum voluptate beatae in ad illum. Aut modi voluptatum dolorum non. Nihil debitis exercitationem placeat pariatur ratione. Libero magni vel est excepturi et consequuntur labore molestiae eius. Nihil quidem dolores. Voluptatum est sed nobis veritatis id facilis sed ea. Laudantium ut et quibusdam id iusto a. In ratione ullam delectus voluptatem. Rem vel vel facere et. Voluptatum accusamus minima velit voluptates id impedit ab nihil voluptatem. Ut laborum enim et quasi reprehenderit. Iure perspiciatis deleniti quae ut nam qui.",
+    "external_url": "https://nyfty.dev",
+    "image": "https://ipfs.nyfty.eu/ticket.png",
+    "animation_url": "https://ipfs.nyfty.eu/ticket.mp4",
+    "name": "Jakob Lorz",
+    "attributes": [
+        {
+          "trait_type": "Event", 
+          "value": "Practical Cotton Computer"
+        }, 
+        {
+          "trait_type": "Provider", 
+          "value": "vivenu.com"
+        },
+        {
+          "trait_type": "Original Price", 
+          "value": 40
+        },
+        {
+            "display_type": "date", 
+            "trait_type": "Start Date", 
+            "value": 1546360800
+          }
+      ]
+}

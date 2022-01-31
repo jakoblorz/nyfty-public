@@ -3,6 +3,6 @@
     "description": "Tickets are assets, treat them as such.",
     "image": "https://ipfs.nyfty.eu/header.png",
     "external_link": "https://nyfty.dev",
-    "seller_fee_basis_points": 100,
+    "seller_fee_basis_points": 500,
     "fee_recipient": "0x1936Ae28A91c76D5B792fD80C8908F02Ef9780af"
   }
